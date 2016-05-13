@@ -41,9 +41,9 @@ public class SearchVerificationTest {
         Assert.assertEquals("115 О", searchPage.getTextOfItem());
     }
 
-
     @After
     public void closeDriver() {
         driver.quit();
     }
+
 }
