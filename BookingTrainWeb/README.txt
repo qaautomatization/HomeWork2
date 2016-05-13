@@ -6,8 +6,7 @@
     // 1. Create ProjectFolder "HomeWork2"
     // 2. Till execute command "mvn archetype:generate" – we must download maven package and set environment variables M2_HOME and PATH %M2_HOME %\bin
     // 3. Open CommandPromt as Administrator and go to ProjectFolder "HomeWork2"
-    // 4. Create External folder near ProjectFolder and put Selen&ChromeDriver thither
-    // 5. Execute command: mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 
+    // 4. Execute command: mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 
           -DgroupId=com.gl.traneapp -DartifactId=bookingtrainweb -DinteractiveMode=false
 
 	
